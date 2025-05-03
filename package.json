@@ -1,8 +1,9 @@
 {
-  "name": "ws-client-adm-shop",
+  "name": "exm-web-socket-client-adm-shop",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "Joaquin Orihuela",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
